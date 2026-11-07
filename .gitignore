@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# The club's sheet is fetched with fetch-channel-sheet.sh, not published here
+Channel-Assignments-*.pdf
+
+# Radio images stay private, apart from the verified EVARC programming
+images/*
+!images/ft60r-readback-2026-11-06.img
